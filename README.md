@@ -1,36 +1,19 @@
-# Projekt
-### Celem jest zbudowanie prostej gry, innej niż Ping-Pong, wzorowanej na grach Atari na potrzeby rynku gier
-Przykładowe gry można znaleźć na stronie: https://www.retrogames.cz/konzole_atari2600.php
+### Opis
 
-### Program składa się z czterech plików: 
-1. HTML
-2. JS
-3. CSS
-4. Readme (zawiera krótki opis gry i instrukcję obsługi)
+Flappy Bird to gra zręcznościowa polegająca na unikaniu słupków poprzez skoki. Celem jest zdobycie jak największej liczby punktów, które zdobywa się po pokonaniu słupka.
 
-### Zawartość pliku Readme
-Tutaj znajduje się dokumentacja gry, a w niej:
+Gra ta jest moim zdaniem atrakcyjna z tego powodu, że rozgrywka nie trwa długo, jest całkiem prosta w obsłudze i skupia się na refleksie, taktyce pokonywania przeszkód i na dokładności. Gra jest prosta, więc każdy, kto jest w stanie klikać i nie jest niewidomy może spróbować swoich sił. Największą frajdą z gry jest rywalizacja między ludźmi o największą liczbę punktów.
 
-1. Krótki opis gry. 
+### Instrukcja obsługi.
 
-    Flappy Bird to gra zręcznościowa polegająca na unikaniu słupków poprzez skoki. Celem jest zdobycie jak największej liczby punktów, które zdobywa się po pokonaniu słupka.
+Aby rozpocząć rozgrywkę wystarczy wcisnąć spację, wtedy ptaszek podleci lekko do góry (spacja powoduje, że ptak podlatuje do góry), należy tak sterować ptakiem za pomocą kliknięć spacji, aby zmieścił się między słupkami.
 
-2. Dlaczego ta gra jest Twoim zdaniem atrakcyjna? Na czym polega jej grywalność?
+Aby rozpocząć kolejną grę po przegranej również należy wcisnąć spację, aby przejśc do ekranu startowego.
 
-    Gra ta jest moim zdaniem atrakcyjna z tego powodu, że rozgrywka nie trwa długo, jest całkiem prosta w obsłudze i skupia się na refleksie, taktyce pokonywania przeszkód i na dokładności. Gra jest prosta, więc każdy, kto jest w stanie klikać i nie jest niewidomy może spróbować swoich sił. Największą frajdą z gry jest rywalizacja między ludźmi o największą liczbę punktów.
+### Obrazy
 
-3. Przykład użycia wraz z rzutami ekranu działania gry.
+![image](https://user-images.githubusercontent.com/62811862/176004171-06fdff8c-be40-44f5-adfa-79cc9563102c.png)
 
-    Przykłady użycia wraz ze zrzutami będą znajdowały się w prezentacji.
+![image](https://user-images.githubusercontent.com/62811862/176003834-d9e2a270-d22f-4c3a-a0b7-0337ed663866.png)
 
-4. Instrukcja obsługi.
-
-    Aby rozpocząć rozgrywkę wystarczy wcisnąć spację, wtedy ptaszek podleci lekko do góry (spacja powoduje, że ptak podlatuje do góry), należy tak sterować ptakiem za pomocą kliknięć spacji, aby zmieścił się między słupkami.
-
-    Aby rozpocząć kolejną grę po przegranej również należy wcisnąć spację, aby przejśc do ekranu startowego.
-
-### Ocenianie
-1. Pomysł na grę i jej grywalność: 40%. 
-2. Niezawodność, przyjazność w użytkowaniu i atrakcyjność wizualna: 40%
-3. Zgodność stylu napisanego kodu z wytycznymi zawartymi w repozytorium MP-2021-JS-INTRO: 20%.
-
+![image](https://user-images.githubusercontent.com/62811862/176004056-de4c8383-ffc2-4822-b698-3860b88d414c.png)
