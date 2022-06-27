@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: #A4C9A1;
+    font-size: 100px;
+    font-family: fantasy;
+    margin: 0;
+}
+canvas{
+    margin-top: 30px;
+    position: absolute;
+}
+#background{
+    z-index: 1;
+}
+
+#game{
+    z-index: 2;
+}
+
+img{
+    width: 76px;
+    height: 56px;
+}
